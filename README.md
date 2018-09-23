@@ -17,5 +17,9 @@ output_file.txt:contains the updated weights and the output obtained after the t
 testing_dataset.txt:10 set of the original dataset for testing the SLP.
 original_test.txt:ouput for the testing samples
 
+for running the perceptron use linux ubuntu
+command:gcc slp.c functions.c functions.h
+./a.out
+
 
 
